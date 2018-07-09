@@ -1,0 +1,5 @@
+(1)查看zynq uart 属性：
+  stty -F /dev/ttyPS0 
+  想要修改属性的话直接在后面加,例如修改波特率为9600
+  stty -F /dev/ttyPS0 9600
+(2) 
